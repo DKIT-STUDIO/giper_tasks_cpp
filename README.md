@@ -145,6 +145,8 @@
 ### 39
 ![image](https://github.com/user-attachments/assets/cb73bb27-0b6b-43fa-936b-185b0dcec091)
 
+### 41 - 57
+![image](https://github.com/user-attachments/assets/d36f6d80-5ae9-44f2-a02d-541c51455dd3)
 
 ### 58
 ![image](https://github.com/user-attachments/assets/9038ba3a-5499-43bf-a7e7-2fa67b9139d5)
