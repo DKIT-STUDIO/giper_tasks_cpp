@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/f70a6b88-1d28-434d-8fef-b7894382dbec)## Четвёртая практическая
 
 > [!WARNING]
 > Автор немного запутался в нумерации :_
