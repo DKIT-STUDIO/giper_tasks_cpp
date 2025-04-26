@@ -126,25 +126,21 @@
 >Реализуйте класс DataProcessor с виртуальной функцией processData(), которая выбрасывает исключение при некорректных данных. Создайте классы CSVProcessor и JSONProcessor.
 >
 
-
-
+### 31
 ![image](https://github.com/user-attachments/assets/025edd90-8fb3-477c-866e-422381e8b414)
-
+### 32
 ![image](https://github.com/user-attachments/assets/11bc396d-966a-415b-bb4e-f51ba690136b)
-
+### 33
 ![image](https://github.com/user-attachments/assets/939393a9-ad44-4e76-b8f0-3084b39eb056)
-
+### 34
 ![image](https://github.com/user-attachments/assets/bc9ab675-3382-4a43-8c6a-0d3e12f61491)
-
+### 35
 ![image](https://github.com/user-attachments/assets/bb11089e-af56-419f-a490-af5bffa676f3)
-
+### 36
 ![image](https://github.com/user-attachments/assets/c4173ca6-fe80-4886-8bec-40122e44a097)
-
+### 37
 ![image](https://github.com/user-attachments/assets/4f33c01c-0a57-4efe-b3e4-8927576dd003)
-
+### 38
 ![image](https://github.com/user-attachments/assets/6a08ee7b-9cf0-49fd-a978-8359ffeaa5e4)
-
+### 39
 ![image](https://github.com/user-attachments/assets/cb73bb27-0b6b-43fa-936b-185b0dcec091)
-
-![image](https://github.com/user-attachments/assets/726555e5-7607-4949-bc3f-df4fdcb26325)
-
