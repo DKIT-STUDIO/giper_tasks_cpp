@@ -100,7 +100,7 @@
 
 ![image](https://github.com/user-attachments/assets/c85b8982-910f-4193-8dab-065cd607debb)
 
-### 30
+### 30 
 >Реализуйте класс PaymentProcessor с виртуальной функцией processPayment(), которая выбрасывает исключение при недостаточном балансе. Создайте классы CreditCardProcessor и DebitCardProcessor.
 
 ![image](https://github.com/user-attachments/assets/b48606e0-b3f7-4399-baaf-1ed53cc283b0)
@@ -143,6 +143,8 @@
 ### 38
 ![image](https://github.com/user-attachments/assets/6a08ee7b-9cf0-49fd-a978-8359ffeaa5e4)
 ### 39
+> По факту это задача 40, ***но автор запутався!***
+
 ![image](https://github.com/user-attachments/assets/cb73bb27-0b6b-43fa-936b-185b0dcec091)
 
 ### 41 - 57
